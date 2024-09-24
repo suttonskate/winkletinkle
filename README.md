@@ -15,9 +15,9 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Web Development (React & Node.js)
 
 #### 📈 Projects
-- **Portfolio Website:** A personal website showcasing my projects and skills. [Link to Project]
-- **Todo App:** A simple todo application built with React. [Link to Project]
-- **Weather App:** A weather forecasting app using an external API. [Link to Project]
+- **Portfolio Website:** A personal website showcasing my projects and skills. 
+- **Todo App:** A simple todo application built with React. 
+- **Weather App:** A weather forecasting app using an external API. I completed this in computer science 101 and never got around to posting the project here.
 
 #### 📫 How to Reach Me
 - **Email:** winkletookatinkle
