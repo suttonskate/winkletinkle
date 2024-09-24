@@ -29,7 +29,3 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Gain practical experience through internships.
 
 Feel free to connect with me and explore my projects! 🚀
-
---- 
-
-You can customize the links and project descriptions as needed!
