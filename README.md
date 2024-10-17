@@ -1,7 +1,7 @@
 ### 👋 Hi there! I’m **winkletinkle**
 
 #### 🌟 About Me
-I'm a first-year Computer Science student from India with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
+I'm a second-year Computer Science student  with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
 
 #### 🛠️ Tech Stack
 - **Languages:** Python, Java, C++
