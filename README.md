@@ -28,4 +28,4 @@ I'm a first-year Computer Science student from India with a passion for coding a
 - Build more complex applications and expand my portfolio.
 - Gain practical experience through internships.
 
-Feel free to connect with me and explore my projects! 🚀
+Feel free to connect with me, periwinkle, and explore my projects! 🚀
