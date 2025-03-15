@@ -4,7 +4,7 @@
 I'm a first-year Computer Science student from India with a passion for coding and technology. I love exploring new languages and frameworks, and I'm excited to dive into the world of software development.
 
 #### 🛠️ Tech Stack
-- **Languages:** Python, Java, C++
+- **Languages:** Python, Java, C++ I'm hoping that we can give our mascot. one heckof a rocket ride.  
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks:** React, Node.js
 - **Tools:** Git, GitHub, Visual Studio Code
